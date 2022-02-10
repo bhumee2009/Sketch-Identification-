@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+#score{
+    float: left;
+    margin: 20px;
+    font-size: 25px;
+}
+
+#time{
+    float: right;
+    margin: 20px;
+    font-size: 25px;
+}
+
+#label, #confidence{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
